@@ -1,0 +1,38 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[core R-core@R project.org(2021)]{RDocumentation}
+R~core R-core@R project.org.
+\newblock {Hair And Eye Color Of Statistics Students}.
+\newblock
+  \url{https://www.rdocumentation.org/packages/datasets/versions/3.6.2/topics/HairEyeColor},
+  2021.
+
+\bibitem[https://stackoverflow.com/users/2994949/rawr(2014)]{RChart}
+https://stackoverflow.com/users/2994949/rawr.
+\newblock {HairEyeColor bar chart in R}.
+\newblock
+  \url{https://stackoverflow.com/questions/26394927/haireyecolor-bar-chart-in-r},
+  2014.
+
+\bibitem[JClave(2019)]{CodigoRPubs}
+JClave.
+\newblock {HairEyeColor bar chart in R}.
+\newblock \url{https://www.rpubs.com/JoanClaverol/485799}, 2019.
+
+\bibitem[Lwetabe(2016)]{RPubs}
+Danny Lwetabe.
+\newblock {RPubs, HairEyeColor}.
+\newblock \url{https://rpubs.com/Dannylwe/178349}, 2016.
+
+\bibitem[Quinones(2021)]{repositorio}
+Cynthia Ivanna~Cruz Quinones.
+\newblock {Repositorio de Github}.
+\newblock
+  \url{https://github.com/CynthiaCruzqn/MatematicasComputacionales.git}, 2021.
+
+\end{thebibliography}
