@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Introdcción}{3}{}%
+\contentsline {section}{\numberline {2}Método de Bisección}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Estimación del error}{4}{}%
+\contentsline {section}{\numberline {3}Tarea}{5}{}%
